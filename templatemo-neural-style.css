@@ -800,7 +800,7 @@ https://templatemo.com/tm-597-neural-glass
     
 }
  .hexagon {
-     width: 350px;
+     width: 250px;
      height: repeat(auto-fit,minman(220px,1fr));
      position: relative;
      transition: all 0.4s ease;
